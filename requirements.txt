@@ -1,0 +1,8 @@
+argcomplete==1.12.3
+certifi==2021.10.8
+ftfy==6.0.3
+packaging==21.3
+pipx==0.16.4
+pyparsing==3.0.6
+userpath==1.7.0
+wcwidth==0.2.5
